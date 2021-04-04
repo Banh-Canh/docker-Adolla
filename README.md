@@ -4,9 +4,9 @@ Dockerized ADOLLA.
 
 https://github.com/AdollaApp/Adolla
 
-https://hub.docker.com/r/banhcanh/docker-Adolla
+https://hub.docker.com/r/banhcanh/docker-adolla
 
-Make sure to configure it using the 'web' ui.
+Use linuxserver's alpine base image.
 
 ## Features
 
