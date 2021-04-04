@@ -36,7 +36,7 @@ version: "2.1"
 services:
   adolla:
     image: banhcanh/docker-adolla
-    container_name: fmd2
+    container_name: adolla
     environment:
       - PUID=1000
       - PGID=1000
